@@ -10,6 +10,7 @@ Clone the repository and run the following commands:
 ```bash
 npm install
 npm run dev
+```
 
 ## Installation for Backend
 
@@ -18,3 +19,4 @@ Clone the repository and run the following commands:
 ```bash
 npm install
 npm start
+```
