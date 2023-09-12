@@ -2,21 +2,54 @@
 
 ## Overview
 
-Chatterbox is real time chatting web app without much sign up process. Used React Js, Node Js and Chat engine.
-## Installation for Frontend
+Chatter Box is a real-time chat web app with a simplified sign-up process. It's built using React.js, Node.js, and the Chat Engine.
 
-Clone the repository and run the following commands:
+## Installation
 
-```bash
-npm install
-npm run dev
-```
+1. **Frontend:**
 
-## Installation for Backend
+   - Clone the repository:
+     ```bash
+     git clone https://github.com/yourusername/chatter-box.git
+     ```
 
-Clone the repository and run the following commands:
+   - Navigate to the frontend directory:
+     ```bash
+     cd chatter-box/frontend
+     ```
 
-```bash
-npm install
-npm start
-```
+   - Install dependencies:
+     ```bash
+     npm install
+     ```
+
+   - Start the development server:
+     ```bash
+     npm run dev
+     ```
+
+2. **Backend:**
+
+   - Clone the repository (if you haven't already):
+     ```bash
+     git clone https://github.com/yourusername/chatter-box.git
+     ```
+
+   - Navigate to the backend directory:
+     ```bash
+     cd chatter-box/backend
+     ```
+
+   - Install dependencies:
+     ```bash
+     npm install
+     ```
+
+   - Start the backend server:
+     ```bash
+     npm start
+     ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
