@@ -10,7 +10,7 @@ Chatter Box is a real-time chat web app with a simplified sign-up process. It's 
 
    - Clone the repository:
      ```bash
-     git clone https://github.com/yourusername/chatter-box.git
+     git clone https://github.com/shadahmad7/chatter-box.git
      ```
 
    - Navigate to the frontend directory:
@@ -32,7 +32,7 @@ Chatter Box is a real-time chat web app with a simplified sign-up process. It's 
 
    - Clone the repository (if you haven't already):
      ```bash
-     git clone https://github.com/yourusername/chatter-box.git
+     git clone https://github.com/shadahmad7/chatter-box.git
      ```
 
    - Navigate to the backend directory:
